@@ -1,0 +1,13 @@
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.exe
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.deps.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.runtimeconfig.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.runtimeconfig.dev.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.dll
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\bin\Debug\netcoreapp3.1\ChoseTwoNum.pdb
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.csprojAssemblyReference.cache
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.csproj.CoreCompileInputs.cache
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.AssemblyInfoInputs.cache
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.AssemblyInfo.cs
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.dll
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.pdb
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\ChoseTwoNum\ChoseTwoNum\obj\Debug\netcoreapp3.1\ChoseTwoNum.genruntimeconfig.cache

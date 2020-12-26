@@ -1,0 +1,12 @@
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.exe
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.deps.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.runtimeconfig.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.runtimeconfig.dev.json
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.dll
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\bin\Debug\netcoreapp3.1\가운데 글자 가져오기.pdb
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.csproj.CoreCompileInputs.cache
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.AssemblyInfoInputs.cache
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.AssemblyInfo.cs
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.dll
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.pdb
+C:\Users\Park Sae Woong\source\repos\ProgramersEX\가운데 글자 가져오기\가운데 글자 가져오기\obj\Debug\netcoreapp3.1\가운데 글자 가져오기.genruntimeconfig.cache
