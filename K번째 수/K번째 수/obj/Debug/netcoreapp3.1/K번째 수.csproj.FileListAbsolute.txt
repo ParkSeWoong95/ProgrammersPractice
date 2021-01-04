@@ -1,3 +1,16 @@
 C:\Users\Park Sae Woong\source\repos\ProgramersEX\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.csproj.CoreCompileInputs.cache
 C:\Users\Park Sae Woong\source\repos\ProgramersEX\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.AssemblyInfoInputs.cache
 C:\Users\Park Sae Woong\source\repos\ProgramersEX\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.AssemblyInfo.cs
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.exe
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.deps.json
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.runtimeconfig.json
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.runtimeconfig.dev.json
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.dll
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\bin\Debug\netcoreapp3.1\K번째 수.pdb
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.csprojAssemblyReference.cache
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.csproj.CoreCompileInputs.cache
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.AssemblyInfoInputs.cache
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.AssemblyInfo.cs
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.dll
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.pdb
+C:\Users\Park Sae Woong\source\repos\Programers\K번째 수\K번째 수\obj\Debug\netcoreapp3.1\K번째 수.genruntimeconfig.cache

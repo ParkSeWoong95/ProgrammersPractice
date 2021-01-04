@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\K번째 수\\K번째 수\\K번째 수.csproj": {}
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\K번째 수\\K번째 수\\K번째 수.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\K번째 수\\K번째 수\\K번째 수.csproj": {
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\K번째 수\\K번째 수\\K번째 수.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\K번째 수\\K번째 수\\K번째 수.csproj",
+        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\K번째 수\\K번째 수\\K번째 수.csproj",
         "projectName": "K번째 수",
-        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\K번째 수\\K번째 수\\K번째 수.csproj",
+        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\K번째 수\\K번째 수\\K번째 수.csproj",
         "packagesPath": "C:\\Users\\Park Sae Woong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\K번째 수\\K번째 수\\obj\\",
+        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\K번째 수\\K번째 수\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Park Sae Woong\\AppData\\Roaming\\NuGet\\NuGet.Config",

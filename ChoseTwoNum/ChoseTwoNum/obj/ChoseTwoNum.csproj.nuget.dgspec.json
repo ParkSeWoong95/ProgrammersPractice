@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj": {}
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj": {
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj",
+        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj",
         "projectName": "ChoseTwoNum",
-        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj",
+        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\ChoseTwoNum\\ChoseTwoNum\\ChoseTwoNum.csproj",
         "packagesPath": "C:\\Users\\Park Sae Woong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\ChoseTwoNum\\ChoseTwoNum\\obj\\",
+        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\ChoseTwoNum\\ChoseTwoNum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Park Sae Woong\\AppData\\Roaming\\NuGet\\NuGet.Config",
