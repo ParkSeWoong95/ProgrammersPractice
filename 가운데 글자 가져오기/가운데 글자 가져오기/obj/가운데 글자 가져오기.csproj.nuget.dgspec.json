@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj": {}
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj": {
+    "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj",
+        "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj",
         "projectName": "가운데 글자 가져오기",
-        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj",
+        "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\가운데 글자 가져오기\\가운데 글자 가져오기\\가운데 글자 가져오기.csproj",
         "packagesPath": "C:\\Users\\Park Sae Woong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\가운데 글자 가져오기\\가운데 글자 가져오기\\obj\\",
+        "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\가운데 글자 가져오기\\가운데 글자 가져오기\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Park Sae Woong\\AppData\\Roaming\\NuGet\\NuGet.Config",

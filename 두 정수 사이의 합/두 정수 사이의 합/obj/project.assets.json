@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\두 정수 사이의 합\\두 정수 사이의 합\\두 정수 사이의 합.csproj",
+      "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\두 정수 사이의 합\\두 정수 사이의 합\\두 정수 사이의 합.csproj",
       "projectName": "두 정수 사이의 합",
-      "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\두 정수 사이의 합\\두 정수 사이의 합\\두 정수 사이의 합.csproj",
+      "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\두 정수 사이의 합\\두 정수 사이의 합\\두 정수 사이의 합.csproj",
       "packagesPath": "C:\\Users\\Park Sae Woong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\두 정수 사이의 합\\두 정수 사이의 합\\obj\\",
+      "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\두 정수 사이의 합\\두 정수 사이의 합\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Park Sae Woong\\AppData\\Roaming\\NuGet\\NuGet.Config",
