@@ -6,7 +6,7 @@ namespace 수박수박수박수박수박수박
     {
         static void Main(string[] args)
         {
-            Solution.solution(3);
+            Solution.solution(3); //
         }
     }
 }
