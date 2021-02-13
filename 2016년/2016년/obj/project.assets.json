@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\2016년\\2016년\\2016년.csproj",
+      "projectUniqueName": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\2016년\\2016년\\2016년.csproj",
       "projectName": "2016년",
-      "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\2016년\\2016년\\2016년.csproj",
+      "projectPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\2016년\\2016년\\2016년.csproj",
       "packagesPath": "C:\\Users\\Park Sae Woong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\ProgramersEX\\2016년\\2016년\\obj\\",
+      "outputPath": "C:\\Users\\Park Sae Woong\\source\\repos\\Programers\\2016년\\2016년\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Park Sae Woong\\AppData\\Roaming\\NuGet\\NuGet.Config",
