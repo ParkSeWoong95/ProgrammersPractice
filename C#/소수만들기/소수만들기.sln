@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "소수만들기", "소수만들기\소수만들기.csproj", "{AC3467A7-585D-4462-96ED-10D4368BD915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC3467A7-585D-4462-96ED-10D4368BD915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3467A7-585D-4462-96ED-10D4368BD915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3467A7-585D-4462-96ED-10D4368BD915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3467A7-585D-4462-96ED-10D4368BD915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43F185EE-7BE0-47D3-9423-FEF6313A2B8C}
+	EndGlobalSection
+EndGlobal
