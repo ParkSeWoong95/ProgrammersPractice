@@ -6,7 +6,8 @@ namespace 모의고사
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Solution sl = new Solution();
+            sl.solution(new int[] { 1, 2, 3, 4, 5 });
         }
     }
 }
